@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.btiming.demo",
+    "package_name": "org.purson.downloader.classicrummy",
     "sha256_cert_fingerprints":
-    ["95:9D:09:27:C7:73:23:FE:E8:97:FC:B4:A7:E9:0C:CC:3C:B6:ED:1F:D6:1D:7B:2D:0C:72:A4:5A:5B:4E:F5:8C"]
+    ["D8:ED:0F:46:32:93:70:CA:D0:5C:9F:68:C8:64:F9:85:51:27:AD:05:F8:C1:28:87:0F:90:F0:72:54:FF:64:1A"]
   }
 }]
